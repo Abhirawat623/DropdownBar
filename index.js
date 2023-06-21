@@ -23,8 +23,7 @@ const input = document.querySelector(".input")   //for input of class by searchi
         {id: 9 , country : "Russia"},
         {id: 10 , country : "Sweden"},
         {id: 11, country : "Switzerland"},
-        {id: 12 , country : "Taiwan"},
-        {id: 13 , country : "Zimbabwe"}     ]
+        {id: 12 , country : "Zimbabwe"}     ]
 
 
 
