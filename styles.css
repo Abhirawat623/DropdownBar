@@ -60,4 +60,6 @@
    }
    .list:hover{
     cursor: pointer;
+   background: black;
+  color:white;
    }
